@@ -1,5 +1,5 @@
 # FunctionPlotter
-GUI Python program that plots functions that entered by the user
+GUI Python program that plots functions that are entered by the user.
 
 The program takes minimum and maximum value for x and plot it as a Graph GUI.
 
