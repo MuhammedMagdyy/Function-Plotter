@@ -1,12 +1,13 @@
 # FunctionPlotter
 GUI Python program that plots functions that are entered by the user.
 
-The program takes minimum and maximum value for x and plot it as a Graph GUI.
+The program takes a minimum and maximum values for x and plots it as a Graph GUI.
 
-The Program developed using Python Libraries:
- * Tkinter
- * Matplotlib 
- * Sympy
+The Program was developed using Python Libraries:
+
+* Tkinter
+* Matplotlib
+* Sympy
 
 # Main Window:
 ![Function Plotter main window](https://user-images.githubusercontent.com/60513866/147838367-ef6db482-c956-4af6-8ed1-b2f710272718.png)
